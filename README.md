@@ -1,5 +1,4 @@
-# IR_Project
-Text Classification through Features
+# Text Classification through Features
 The project consists of three programs and experiments which are as follows:
 Experiment 1: Text Classification based on Natural Language Processing based extracted feature vectors combined with Deep Learning
 Experiment 2: Text Classification based on Embedding of only the extracted features combined with Deep Learning
