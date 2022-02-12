@@ -8,9 +8,7 @@ Experiment 2: Text Classification based on Embedding of only the extracted featu
 Experiment 3: Text Classification based on Embedding of feature and original text combined with Deep Learning
 For Experiments 2 and 3, the pre-trained glove embedding would be required which can be found at:http://nlp.stanford.edu/data/glove.840B.300d.zip. 
 
-For details on Methodology, refer Methodology
-
-For details on results, refer Results
+For details refer to Report
 
 
 
